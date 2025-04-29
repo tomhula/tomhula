@@ -2,7 +2,7 @@
 
 Languages I am very experienced with:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,regex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,regex)](https://skillicons.dev)
 
 Tools I am very experienced with:  
 
